@@ -46,7 +46,7 @@ Be sure to utilize the [MYSQL Heroku Deployment Guide](../../Supplemental/MySQLH
    * express
    * body-parser
 
-#### DB Setup
+ #### DB Setup  ---DONE---
 
 1. Inside your `burger` directory, create a folder named `db`.
 
@@ -75,7 +75,7 @@ Be sure to utilize the [MYSQL Heroku Deployment Guide](../../Supplemental/MySQLH
 
    * Close out of the MySQL command line tool: `exit`.
 
-#### Config Setup
+#### Config Setup     ---ORM REQUIRES WORK---
 
 1. Inside your `burger` directory, create a folder named `config`.
 
@@ -109,7 +109,7 @@ Be sure to utilize the [MYSQL Heroku Deployment Guide](../../Supplemental/MySQLH
 
     * Export at the end of the `burger.js` file.
 
-#### Controller setup
+#### Controller setup --DONE--
 
 1. Inside your `burger` directory, create a folder named `controllers`.
 
